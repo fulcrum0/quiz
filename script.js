@@ -40,7 +40,7 @@ const questions = [
         answer: "True"
     },
     {
-        question: "What role do ethical hackers play in combating cybercrime?",
+        question: "What role do ethical hackers play in combatting cybercrime?",
         type: "mcq",
         options: [
             "a) Developing viruses",
